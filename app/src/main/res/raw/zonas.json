@@ -1,0 +1,6 @@
+[
+  {"key" : "URB", "zone" : "Urbana", "cost":10.00},
+  {"key" : "RUR", "zone" : "Rural", "cost":8.00},
+  {"key" : "MAR", "zone" : "Marginado", "cost":2.00},
+  {"key" : "RES", "zone" : "Residencial", "cost":25.00}
+]
